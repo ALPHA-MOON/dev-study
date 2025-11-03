@@ -6,7 +6,7 @@
 >Resolves: #45 Ref: #11, #22
 
 #### 커밋 컨벤션 태그
-![커밋 컨벤션 태그](999_Resources/커밋_컨벤션_태그.png)
+![커밋 컨벤션 태그](999_Resources/commit_convention_tag.png)
 
 #### 푸터
 Fixes: 이슈 수정 중(아직 해결되지 않은 경우)
