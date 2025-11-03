@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002. Week Plan/2025년 45주차 계획.md",
+                "file": "100_Project/101_AI_원프렌드/commit_convention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025년 45주차 계획"
+              "title": "commit_convention"
             }
           }
         ],
@@ -186,24 +186,25 @@
   },
   "active": "8f7732b2af9a97b8",
   "lastOpenFiles": [
-    "100. Project/101. AI 원프렌드/commit convention.md",
-    "999. Resources/커밋 컨벤션 태그.png",
-    "001. Daily Report/2025-11-03.md",
-    "999. Resources",
-    "Git/상황별 Git 명령어.md",
-    "Database/상황별 쿼리.md",
+    "999_Resources/커밋_컨벤션_태그.png",
+    "100_Project/101_AI_원프렌드/commit_convention.md",
+    "001_Daily_Report/2025-11-03.md",
+    "Templete/데일리_리포트_양식.md",
+    "Git/상황_Git_명령어.md",
+    "Database/상황별_쿼리.md",
+    "100_Project/101_AI_원프렌드/AI_원프렌드_기획.md",
+    "002_Week_Plan/2025년_45주차_계획.md",
+    "001. Daily Report/002..md",
+    "999_Resources",
     "Database",
-    "002. Week Plan/2025년 45주차 계획.md",
     "Spring/Spring.md",
     "Git",
-    "100. Project/101. AI 원프렌드/AI 원프렌드 기획.md",
-    "100. Project/101. AI 원프렌드",
-    "100. Project",
+    "100_Project/101_AI_원프렌드",
+    "100_Project",
     "003. 면접 준비",
-    "002. Week Plan",
-    "Templete/데일리 리포트 양식.md",
+    "002_Week_Plan",
     "Templete",
-    "001. Daily Report",
+    "001_Daily_Report",
     "Spring",
     "환영합니다!.md"
   ]
